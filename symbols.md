@@ -126,7 +126,7 @@ $\grave{a}$
 
 $\acute{a}$
 
-$\dot{a}$
+$\dot{a}$ .
 
 $\ddot{a}$
 
